@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu
 LABEL maintainer="andry@optimacomputer.com"
 LABEL version="1.0"
 LABEL description="my image description"
